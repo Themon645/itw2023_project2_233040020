@@ -86,9 +86,8 @@ section {
 
 .home-img img {
   max-width: 100%;
-  width: 350px;
+  width: 250px;
   height: auto;
-  margin-left: 200px;
 }
 
 .home-text h1 {
@@ -301,7 +300,7 @@ section {
 }
 
 .col .social {
-  width: 100px;
+  width: 200px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -355,7 +354,7 @@ section {
     background: #2b2640;
     transition: .3s;
   }
-  header .navbar .active {
+  header .navbar.active {
     top: 70px;
   }
   .navbar a {
